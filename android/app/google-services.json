@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945770204953",
+    "project_id": "foodpanda-clone-app-dbc79",
+    "storage_bucket": "foodpanda-clone-app-dbc79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945770204953:android:5a3ced76634f5b077e3f88",
+        "android_client_info": {
+          "package_name": "com.cookiss.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945770204953-ms807dgfecsarjeju2o7vnuc9ubilr0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKDOknRL0zmyncXaSFmsaSSdzYlZKFgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945770204953-ms807dgfecsarjeju2o7vnuc9ubilr0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
